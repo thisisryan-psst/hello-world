@@ -1,2 +1,3 @@
 # hello-world
-First time doing this .. yayy:)
+This is first repository
+This is first committ
